@@ -1,0 +1,8 @@
+{
+  "name": "arg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "c665d5bd"
+}
